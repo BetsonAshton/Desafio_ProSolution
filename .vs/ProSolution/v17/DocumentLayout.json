@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\data\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\data\\repositories\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|d:\\workspace\\desafio\\prosolution\\prosolution\\prosolution\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|D:\\workspace\\Desafio\\ProSolution\\ProSolution\\prosolution\\data\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D826068C-E88F-4F79-B618-F619B9E173CB}|ProSolution\\ProSolution.csproj|solutionrelative:prosolution\\data\\interfaces\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProSolution\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProSolution\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:54:54.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-31T19:49:57.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Data\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "ProSolution\\Data\\Repositories\\FileRepository.cs",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Data\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "ProSolution\\Data\\Repositories\\FileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:41:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Data\\Interfaces\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "ProSolution\\Data\\Interfaces\\IFileRepository.cs",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Data\\Interfaces\\IFileRepository.cs",
+              "RelativeToolTip": "ProSolution\\Data\\Interfaces\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:41:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProSolution\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProSolution\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:27.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProSolution\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProSolution\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T19:37:46.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Web.config",
+              "RelativeDocumentMoniker": "ProSolution\\Web.config",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Web.config",
+              "RelativeToolTip": "ProSolution\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T19:34:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "ProSolution\\Controllers\\FileController.cs",
+              "ToolTip": "D:\\workspace\\Desafio\\ProSolution\\ProSolution\\ProSolution\\Controllers\\FileController.cs",
+              "RelativeToolTip": "ProSolution\\Controllers\\FileController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:30:01.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

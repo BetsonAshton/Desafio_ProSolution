@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <h2>Upload de Arquivo</h2>
+    <form action="/Home/Upload" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="file">Escolha o arquivo:</label>
+            <input type="file" name="file" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Upload</button>
+    </form>
+
+    <br />
+
+    <h2>Download de Arquivo</h2>
+    <form action="/Home/Download" method="get">
+        <div class="form-group">
+            <label for="fileName">Escolha um arquivo para download:</label>
+            <select name="fileName" class="form-control" required>
+                <option value="">Selecione um arquivo</option>
+                @foreach (var file in ViewBag.Files)
+                {
+                    <option value="@file">@file</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-success mt-3">Download</button>
+    </form>
+
+    <br />
+
+    @if (TempData["Message"] != null)
+    {
+        var messageType = TempData["MessageType"] as string;
+        var alertClass = messageType == "success" ? "alert alert-info" : "alert alert-danger"; // Azul para sucesso, vermelho para erro
+        <div class="@alertClass">
+            @TempData["Message"]
+        </div>
+    }
+</div>
