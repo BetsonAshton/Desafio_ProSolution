@@ -4,7 +4,7 @@
 ## Projeto desenvolvido em C# com WebApi .NET
 1.  .NET Framework 4.8.1
 2.  FrontEnd Bootstrap
-3 . Extensões(Dapper,SqlClient)
+3. Extensões(Dapper,SqlClient)
 
 ## Aviso!
 1. Crie um banco de dados local do SqlServer(BD_Files)
